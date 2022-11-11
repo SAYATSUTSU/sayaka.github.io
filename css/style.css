@@ -471,21 +471,25 @@ margin-bottom: 1em;
     overflow
     padding */
     color: #fff;
-    background-color: #312a26;
+    background-color: #19100f;
     overflow: auto;
-    padding: 2em;
+    padding: 1em;
 }
 
 .social-widget{
     /* width
     float:left
     textaling*/
-    width: auto;
+    width: 33%;
+    float: left;
+    text-align:center;
 }
 .social-widget h3{
     /* texttransform
      */
+    text-transform:uppercase;
 }
 .social-widget img{
 /* width */
+    width: 1.5em;
 }
